@@ -1,0 +1,1 @@
+This is my personal list of domain names and IP addresses to forward through VPN.
