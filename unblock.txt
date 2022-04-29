@@ -40,6 +40,7 @@ rutracker.org
 sci-hub.scihubtw.tw
 smotreshka.tv
 svoboda.org
+www.svoboda.org
 t.co
 theins.ru
 thepiratebay.org
@@ -65,6 +66,12 @@ unr.edu
 library.unr.edu
 mediazona.by
 s3.zona.media
+chess.com
+unian.net
+www.unian.net
+acf.international
+www.themoviedb.org
+themoviedb.org
 
 ###Торрент-трекеры
 rutracker.org
@@ -501,3 +508,4 @@ check.torproject.org
 185.45.4.0/24
 103.252.112.0/23
 185.45.4.0/23
+video.twimg.com
