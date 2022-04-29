@@ -76,6 +76,7 @@ themoviedb.org
 108.156.22.129
 108.156.22.87
 novayagazeta.eu
+wikiart.org
 
 ###Торрент-трекеры
 rutracker.org
