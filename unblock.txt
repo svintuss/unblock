@@ -80,12 +80,12 @@ wikiart.org
 
 ###Торрент-трекеры
 rutracker.org
-bt4.t-ru.org
-bt3.t-ru.org
-bt2.t-ru.org
-#bt1.t-ru.org
-bt.t-ru.org
-#t-ru.org
+# bt4.t-ru.org
+# bt3.t-ru.org
+# bt2.t-ru.org
+# bt1.t-ru.org
+# bt.t-ru.org
+# t-ru.org
 rutor.info
 rutor.is
 mega-tor.org
