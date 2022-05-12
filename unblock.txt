@@ -82,6 +82,7 @@ wikiart.org
 proekt.media
 agents.media
 www.agents.media
+the-village.ru
 
 ###Торрент-трекеры
 rutracker.org
