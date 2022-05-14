@@ -83,6 +83,7 @@ proekt.media
 agents.media
 www.agents.media
 the-village.ru
+egpu.io
 
 ###Торрент-трекеры
 rutracker.org
