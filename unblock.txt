@@ -84,6 +84,7 @@ agents.media
 www.agents.media
 the-village.ru
 egpu.io
+istories.media
 
 ###Торрент-трекеры
 rutracker.org
