@@ -50,6 +50,9 @@ www.theins.ru
 
 hrw.org
 
+# Inaccessible for Russians
+gnudb.org
+
 thepiratebay.org
 tjournal.ru
 torporject.org
