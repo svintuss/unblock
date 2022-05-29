@@ -43,6 +43,9 @@ sci-hub.scihubtw.tw
 smotreshka.tv
 svoboda.org
 www.svoboda.org
+currenttime.tv
+gdb.currenttime.tv
+
 t.co
 theins.ru
 www.theins.ru
