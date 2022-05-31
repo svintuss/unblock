@@ -45,6 +45,7 @@ svoboda.org
 www.svoboda.org
 currenttime.tv
 gdb.currenttime.tv
+forbes.ua
 
 t.co
 theins.ru
