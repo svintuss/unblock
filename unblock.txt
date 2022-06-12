@@ -47,7 +47,8 @@ currenttime.tv
 gdb.currenttime.tv
 forbes.ua
 atlanticcouncil.org
-
+rferl.org
+canva.com
 
 t.co
 theins.ru
