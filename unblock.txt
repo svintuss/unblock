@@ -100,6 +100,7 @@ themoviedb.org
 novayagazeta.eu
 wikiart.org
 proekt.media
+war-proekt.media
 agents.media
 www.agents.media
 the-village.ru
