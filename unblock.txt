@@ -106,6 +106,8 @@ www.agents.media
 the-village.ru
 egpu.io
 istories.media
+kyivindependent.com
+
 
 ###Торрент-трекеры
 rutracker.org
