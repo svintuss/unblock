@@ -55,6 +55,8 @@ golosameriki.com
 t.co
 theins.ru
 www.theins.ru
+theinsider.today
+api.theinsider.today
 188.114.98.153
 dossier.center
 dailymotion.com
@@ -108,6 +110,7 @@ egpu.io
 istories.media
 kyivindependent.com
 paper-paper.uno
+
 
 
 ###Торрент-трекеры
