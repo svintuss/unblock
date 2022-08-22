@@ -77,6 +77,7 @@ ton.twimg.com
 api.twitter.com
 twitter.com
 twttr.com
+pbs.twimg.com
 #twttr.net
 video.twimg.com
 www.netfact.ru
