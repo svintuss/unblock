@@ -102,6 +102,7 @@ themoviedb.org
 108.156.22.129
 108.156.22.87
 novayagazeta.eu
+novaya.no
 wikiart.org
 proekt.media
 war-proekt.media
