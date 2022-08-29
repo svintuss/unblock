@@ -115,6 +115,7 @@ kyivindependent.com
 paper-paper.uno
 thetruestory.news
 krymr.com
+moscowtimes.ru
 
 ###Торрент-трекеры
 rutracker.org
