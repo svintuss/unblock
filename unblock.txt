@@ -114,7 +114,7 @@ istories.media
 kyivindependent.com
 paper-paper.uno
 thetruestory.news
-
+krymr.com
 
 ###Торрент-трекеры
 rutracker.org
