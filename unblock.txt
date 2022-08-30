@@ -116,6 +116,7 @@ paper-paper.uno
 thetruestory.news
 krymr.com
 moscowtimes.ru
+patreon.com
 
 ###Торрент-трекеры
 rutracker.org
