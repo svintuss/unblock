@@ -120,6 +120,8 @@ patreon.com
 verstka.media
 paperpaper.ru
 quora.com
+cdn.occrp.org
+occrp.org
 
 ###Торрент-трекеры
 rutracker.org
