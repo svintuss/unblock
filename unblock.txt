@@ -123,6 +123,7 @@ quora.com
 cdn.occrp.org
 occrp.org
 moscowtimes.eu
+zerkalo.io
 
 ###Торрент-трекеры
 rutracker.org
