@@ -126,6 +126,7 @@ moscowtimes.eu
 zerkalo.io
 feeds.soundcloud.com
 soundcloud.com
+www.soundcloud.com
 
 ###Торрент-трекеры
 rutracker.org
