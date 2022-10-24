@@ -38,6 +38,11 @@ rutracker.org
 saverudata.org
 saverudata.info
 saverudata.net
+echofm.online
+severreal.org
+ridl.io
+republic.ru
+
 
 sci-hub.scihubtw.tw
 smotreshka.tv
