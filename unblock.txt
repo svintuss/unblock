@@ -42,6 +42,7 @@ echofm.online
 severreal.org
 ridl.io
 republic.ru
+t.me
 
 
 sci-hub.scihubtw.tw
