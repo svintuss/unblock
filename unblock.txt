@@ -44,6 +44,8 @@ ridl.io
 republic.ru
 t.me
 
+weather.com
+
 
 sci-hub.scihubtw.tw
 smotreshka.tv
