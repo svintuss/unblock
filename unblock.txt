@@ -46,6 +46,7 @@ t.me
 
 weather.com
 
+wetransfer.com
 
 sci-hub.scihubtw.tw
 smotreshka.tv
