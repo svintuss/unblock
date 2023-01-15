@@ -44,6 +44,7 @@ ridl.io
 republic.ru
 t.me
 ex.ua
+openai.com
 
 weather.com
 
