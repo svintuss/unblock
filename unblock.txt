@@ -45,6 +45,7 @@ republic.ru
 t.me
 ex.ua
 openai.com
+parallels.com
 
 weather.com
 
