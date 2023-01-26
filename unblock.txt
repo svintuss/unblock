@@ -47,6 +47,7 @@ ex.ua
 openai.com
 parallels.com
 anonfiles.com
+focus.ua
 
 weather.com
 
