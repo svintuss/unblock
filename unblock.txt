@@ -48,6 +48,8 @@ openai.com
 parallels.com
 anonfiles.com
 focus.ua
+cia.gov
+fbi.gov
 
 weather.com
 
