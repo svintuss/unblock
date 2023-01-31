@@ -50,6 +50,8 @@ anonfiles.com
 focus.ua
 cia.gov
 fbi.gov
+gov.ua
+mev.gov.ua
 
 weather.com
 
