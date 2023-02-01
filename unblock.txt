@@ -52,6 +52,8 @@ cia.gov
 fbi.gov
 gov.ua
 mev.gov.ua
+in.ua
+sum.in.ua
 
 weather.com
 
