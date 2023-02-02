@@ -58,6 +58,7 @@ sum.in.ua
 weather.com
 
 wetransfer.com
+eos.io
 
 sci-hub.scihubtw.tw
 smotreshka.tv
