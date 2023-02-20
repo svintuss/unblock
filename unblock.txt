@@ -89,6 +89,7 @@ hrw.org
 gnudb.org
 slack.com
 calendula.com
+openai.com
 
 thepiratebay.org
 tjournal.ru
