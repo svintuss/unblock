@@ -90,6 +90,7 @@ gnudb.org
 slack.com
 calendula.com
 openai.com
+javawa.nl
 
 thepiratebay.org
 tjournal.ru
