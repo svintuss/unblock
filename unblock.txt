@@ -56,6 +56,7 @@ in.ua
 sum.in.ua
 
 weather.com
+gofile.io
 
 wetransfer.com
 eos.io
