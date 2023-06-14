@@ -105,6 +105,8 @@ strava.com
 www.strava.com
 sasgis.org
 leafletjs.com
+services.digitalglobe.com
+digitalglobe.com
 
 thepiratebay.org
 tjournal.ru
