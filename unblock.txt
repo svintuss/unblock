@@ -54,6 +54,7 @@ gov.ua
 mev.gov.ua
 in.ua
 sum.in.ua
+re-russia.net
 
 weather.com
 gofile.io
