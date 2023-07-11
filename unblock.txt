@@ -107,6 +107,8 @@ sasgis.org
 leafletjs.com
 services.digitalglobe.com
 digitalglobe.com
+medium.com
+towardsdatascience.com
 
 thepiratebay.org
 tjournal.ru
