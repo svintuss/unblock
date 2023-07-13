@@ -110,6 +110,8 @@ services.digitalglobe.com
 digitalglobe.com
 medium.com
 towardsdatascience.com
+swissmicros.com
+forum.swissmicros.com
 
 thepiratebay.org
 tjournal.ru
