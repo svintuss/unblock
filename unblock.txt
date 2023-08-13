@@ -155,6 +155,7 @@ www.agents.media
 the-village.ru
 egpu.io
 istories.media
+static.istories.media
 kyivindependent.com
 paper-paper.uno
 thetruestory.news
