@@ -60,6 +60,7 @@ weather.com
 api.weather.com
 s.w-x.co
 cdn.polyfill.io
+mparticle.weather.com
 
 gofile.io
 
