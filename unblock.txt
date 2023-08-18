@@ -57,6 +57,10 @@ sum.in.ua
 re-russia.net
 
 weather.com
+api.weather.com
+s.w-x.co
+cdn.polyfill.io
+
 gofile.io
 
 wetransfer.com
