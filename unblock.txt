@@ -166,6 +166,7 @@ paper-paper.uno
 thetruestory.news
 krymr.com
 moscowtimes.ru
+static.moscowtimes.ru
 patreon.com
 verstka.media
 paperpaper.ru
