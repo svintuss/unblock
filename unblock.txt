@@ -28,7 +28,6 @@ openuni.io
 pbs.twimg.com
 
 pornhub.com
-phncdn.com
 ev.phncdn.com
 e1v-h.phncdn.com
 dv-h.phncdn.com
@@ -53,13 +52,10 @@ t.me
 ex.ua
 openai.com
 parallels.com
-anonfiles.com
 focus.ua
 cia.gov
 fbi.gov
-gov.ua
 mev.gov.ua
-in.ua
 sum.in.ua
 re-russia.net
 carnegieendowment.org
@@ -106,7 +102,6 @@ hrw.org
 # Inaccessible for Russians
 gnudb.org
 slack.com
-calendula.com
 openai.com
 javawa.nl
 putinism.wordpress.com
