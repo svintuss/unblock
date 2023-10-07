@@ -226,7 +226,7 @@ filmix.cc
 seasonvar.ru
 
 ###Книги
-lib.rus.ec
+#lib.rus.ec
 flibusta.is
 flibs.me
 flisland.net
