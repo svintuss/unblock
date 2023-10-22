@@ -132,6 +132,7 @@ mdais.org
 
 # Posters for Plex Library
 themoviedb.org
+tmdb.org
 image.tmdb.org
 
 thepiratebay.org
