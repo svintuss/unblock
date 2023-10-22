@@ -132,13 +132,15 @@ mdais.org
 
 # Posters for Plex Library
 themoviedb.org
+108.159.227.40
+# 108.159.224.0/21
 185.107.56.205
 # 185.107.56.0/22
 www.themoviedb.org
 tmdb.org
 image.tmdb.org
 104.237.196.116
-# 104.237.192.0 / 19
+# 104.237.192.0/19
 
 thepiratebay.org
 tjournal.ru
