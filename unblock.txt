@@ -129,6 +129,8 @@ towardsdatascience.com
 swissmicros.com
 forum.swissmicros.com
 mdais.org
+# Posters for Plex Library
+image.tmdb.org
 
 thepiratebay.org
 tjournal.ru
