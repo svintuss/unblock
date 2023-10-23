@@ -132,7 +132,8 @@ mdais.org
 deviantart.com
 
 # Posters for Plex Library
-# themoviedb.org
+themoviedb.org
+api.themoviedb.org
 # 18.165.140.98 
 # 18.165.140.123
 # 18.165.140.10
@@ -142,14 +143,14 @@ deviantart.com
 # 108.159.224.0/21
 # 185.107.56.205
 # 185.107.56.0/22
-# www.themoviedb.org
-# tmdb.org
+www.themoviedb.org
+tmdb.org
 # 108.156.22.110
 # 108.156.22.69
 # 108.156.22.5
 # 108.156.22.128
 # 
-# image.tmdb.org
+image.tmdb.org
 # 104.237.196.116
 # 104.237.192.0/19
 # 
