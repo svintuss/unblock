@@ -184,6 +184,7 @@ mbk.news
 svoboda.org
 dw.com
 www.dw.com
+static.dw.com
 unr.edu
 library.unr.edu
 mediazona.by
