@@ -227,6 +227,7 @@ feeds.soundcloud.com
 soundcloud.com
 www.soundcloud.com
 fast.fonts.net
+dnsboaolo.best
 
 ###Торрент-трекеры
 rutracker.org
