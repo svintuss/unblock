@@ -266,7 +266,7 @@ static.files.bbci.co.uk
 idcta.api.bbc.com
 ichef.bbci.co.uk
 nav.files.bbci.co.uk
-gn-web-assets.api.bbc.com
+api.bbc.com
 emp.bbci.co.uk
 xproxy.api.bbc.com
 static.bbci.co.uk
