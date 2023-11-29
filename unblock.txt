@@ -202,6 +202,7 @@ novayagazeta.eu
 novaya.no
 wikiart.org
 proekt.media
+www.proekt.media
 war-proekt.media
 agents.media
 www.agents.media
