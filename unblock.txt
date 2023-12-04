@@ -130,6 +130,7 @@ swissmicros.com
 forum.swissmicros.com
 mdais.org
 deviantart.com
+zn.ua
 
 # Posters for Plex Library
 themoviedb.org
@@ -266,7 +267,7 @@ static.files.bbci.co.uk
 idcta.api.bbc.com
 ichef.bbci.co.uk
 nav.files.bbci.co.uk
-api.bbc.com
+# api.bbc.com
 emp.bbci.co.uk
 xproxy.api.bbc.com
 static.bbci.co.uk
