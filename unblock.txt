@@ -131,8 +131,11 @@ forum.swissmicros.com
 mdais.org
 deviantart.com
 zn.ua
+
+# ChatGPT
 chat.openai.com
 openai.com
+cdn.oaistatic.com
 
 # Posters for Plex Library
 themoviedb.org
