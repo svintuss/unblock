@@ -131,6 +131,8 @@ forum.swissmicros.com
 mdais.org
 deviantart.com
 zn.ua
+chat.openai.com
+openai.com
 
 # Posters for Plex Library
 themoviedb.org
