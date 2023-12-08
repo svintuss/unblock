@@ -136,6 +136,7 @@ zn.ua
 chat.openai.com
 openai.com
 cdn.oaistatic.com
+chat.openai.com.cdn.cloudflare.net
 
 # Posters for Plex Library
 themoviedb.org
