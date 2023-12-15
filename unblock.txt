@@ -131,6 +131,7 @@ forum.swissmicros.com
 mdais.org
 deviantart.com
 zn.ua
+chronicles.report
 
 # ChatGPT
 chat.openai.com
