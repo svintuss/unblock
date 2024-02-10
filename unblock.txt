@@ -133,6 +133,7 @@ deviantart.com
 zn.ua
 chronicles.report
 wikiwand.com
+opendemocracy.net
 
 # ChatGPT
 chat.openai.com
