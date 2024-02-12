@@ -134,6 +134,7 @@ zn.ua
 chronicles.report
 wikiwand.com
 opendemocracy.net
+knowyourmeme.com
 
 # ChatGPT
 chat.openai.com
