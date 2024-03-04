@@ -135,6 +135,7 @@ chronicles.report
 wikiwand.com
 opendemocracy.net
 knowyourmeme.com
+claude.ai
 
 # ChatGPT
 chat.openai.com
