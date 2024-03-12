@@ -136,6 +136,7 @@ wikiwand.com
 opendemocracy.net
 knowyourmeme.com
 claude.ai
+coursera.org
 
 # ChatGPT
 chat.openai.com
