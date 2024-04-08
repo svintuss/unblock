@@ -50,7 +50,11 @@ pornolab.net
 #postimg.org
 protonmail.com
 pscp.tv
+
+# RuTracker
 rutracker.org
+static.rutracker.cc
+
 saverudata.org
 saverudata.info
 saverudata.net
