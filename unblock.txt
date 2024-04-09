@@ -30,7 +30,11 @@ protonmail.com
 mbk-news.appspot.com
 meduza.io
 navalny.com
+
+# Google services
 news.google.com
+play.google.com
+
 nnmclub.to
 openmedia.io
 openuni.io
