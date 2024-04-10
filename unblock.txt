@@ -56,6 +56,10 @@ protonmail.com
 pscp.tv
 
 aucview.com
+aucfan.com
+aucview.aucfan.com
+auctions.afimg.jp
+thumbnail.image.rakuten.co.jp
 
 # RuTracker
 rutracker.org
