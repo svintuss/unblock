@@ -49,6 +49,7 @@ di.phncdn.com
 ss.phncdn.com
 ei.phncdn.com
 hubt.pornhub.com
+evtubescms.phncdn.com
 
 pornolab.net
 #postimg.org
@@ -153,6 +154,8 @@ opendemocracy.net
 knowyourmeme.com
 claude.ai
 coursera.org
+printerworks.com
+
 
 # ChatGPT
 chat.openai.com
