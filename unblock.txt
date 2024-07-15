@@ -30,6 +30,7 @@ protonmail.com
 mbk-news.appspot.com
 meduza.io
 navalny.com
+wilsoncenter.org
 
 # Google services
 news.google.com
