@@ -158,6 +158,8 @@ claude.ai
 coursera.org
 printerworks.com
 
+static.metabrainz.org
+musicbrainz.org
 
 # ChatGPT
 chat.openai.com
