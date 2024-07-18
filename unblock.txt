@@ -161,6 +161,9 @@ printerworks.com
 static.metabrainz.org
 musicbrainz.org
 
+# Canada post
+canadapost-postescanada.ca
+
 # ChatGPT
 chat.openai.com
 openai.com
