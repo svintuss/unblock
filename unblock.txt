@@ -46,7 +46,6 @@ thebell.io
 pornhub.com
 ev.phncdn.com
 e1v-h.phncdn.com
-dv-h.phncdn.com
 di.phncdn.com
 ss.phncdn.com
 ei.phncdn.com
@@ -91,7 +90,6 @@ carnegieendowment.org
 weather.com
 api.weather.com
 s.w-x.co
-cdn.polyfill.io
 mparticle.weather.com
 
 gofile.io
@@ -119,7 +117,6 @@ t.co
 theins.ru
 www.theins.ru
 theinsider.today
-api.theinsider.today
 188.114.98.153
 dossier.center
 dailymotion.com
@@ -226,7 +223,6 @@ www.dw.com
 static.dw.com
 unr.edu
 library.unr.edu
-mediazona.by
 s3.zona.media
 chess.com
 unian.net
@@ -267,7 +263,6 @@ feeds.soundcloud.com
 soundcloud.com
 www.soundcloud.com
 fast.fonts.net
-dnsboaolo.best
 
 ###Торрент-трекеры
 rutracker.org
