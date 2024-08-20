@@ -159,6 +159,10 @@ knowyourmeme.com
 claude.ai
 coursera.org
 printerworks.com
+lemonde.fr
+www.lemonde.fr
+lemde.fr
+img.lemde.fr
 
 static.metabrainz.org
 musicbrainz.org
