@@ -163,6 +163,7 @@ lemonde.fr
 www.lemonde.fr
 lemde.fr
 img.lemde.fr
+dpreview.com
 
 static.metabrainz.org
 musicbrainz.org
