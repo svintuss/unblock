@@ -122,7 +122,7 @@ t.co
 theins.ru
 www.theins.ru
 theinsider.today
-188.114.98.153
+# 188.114.98.153
 dossier.center
 dailymotion.com
 okrussians.org
@@ -163,7 +163,7 @@ lemonde.fr
 www.lemonde.fr
 lemde.fr
 img.lemde.fr
-dpreview.com
+# dpreview.com
 
 static.metabrainz.org
 musicbrainz.org
