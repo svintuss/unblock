@@ -164,6 +164,8 @@ www.lemonde.fr
 lemde.fr
 img.lemde.fr
 # dpreview.com
+www.liberation.fr
+statics.liberation.fr
 
 static.metabrainz.org
 musicbrainz.org
