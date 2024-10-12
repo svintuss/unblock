@@ -122,7 +122,6 @@ archive.ph
 
 theins.ru
 www.theins.ru
-theinsider.today
 # 188.114.98.153
 dossier.center
 dailymotion.com
@@ -167,6 +166,10 @@ img.lemde.fr
 # dpreview.com
 www.liberation.fr
 statics.liberation.fr
+img.weser-kurier.de
+apineu.weser-kurier.de
+www.weser-kurier.de
+
 
 static.metabrainz.org
 musicbrainz.org
