@@ -588,10 +588,10 @@ static.xx.fbcdn.net
 # api.twitter.com
 # twitter.com
 # twttr.com
-# api.x.com
+api.x.com
 # pbs.twimg.com
 # twttr.net
-# video.twimg.com
+video.twimg.com
 # t.co
 # abs.twimg.com
 
